@@ -153,7 +153,7 @@ Answer: True positive
 </p>
 
 
-After submitting the alerts as true positives, I was notified that I’ve identified all the true positives so the remaining alerts that I hadn’t touched were false positives.
+After submitting the alerts as true positives, I was notified that I’ve identified all the true positives so the remaining alerts that I hadn’t touched (1011-1019, 1021, and 1035) were false positives.
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/26.png" />
 </p>
 
