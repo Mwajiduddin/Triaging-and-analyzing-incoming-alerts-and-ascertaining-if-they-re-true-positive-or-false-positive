@@ -27,18 +27,27 @@ After finishing the first alert, more alerts started coming into the queue.
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/3.png" />
 </p>
 
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1001.png" />
+</p>
 Answer: False positive
 <p align="center">
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/4.png" />
 </p>
 
 <h2 align="center">Alert ID 1002:</h2>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1002.png" />
+</p>
 Answer: False positive
 <p align="center">
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/5.png" />
 </p>
 
 <h2 align="center">Alert ID 1003:</h2> 
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1003.png" />
+</p>
 Answer: False positive, same as the alert 1000, there’s no malicious attachments nor suspicious hyperlinks in this email so this alert is false positive. Also the email domain appears to be legitimate according to TryDetectThis.
 <p align="center">
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/8.png" />
@@ -48,6 +57,9 @@ Answer: False positive, same as the alert 1000, there’s no malicious attachmen
 
 
 <h2 align="center">Alert ID 1004:</h2> 
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1004.png" />
+</p>
 Answer: False positive, same as the alert 1000, there’s no malicious attachments nor suspicious hyperlinks in this email so this alert is false positive. Also the email domain appears to be legitimate according to TryDetectThis.
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/9.png" />
 </p>
@@ -56,6 +68,9 @@ Answer: False positive, same as the alert 1000, there’s no malicious attachmen
 
 
 <h2 align="center">Alert ID 1005:</h2> 
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1005.png" />
+</p>
 A suspected phishing email was sent to the CEO with a zip attachment that has a typo in it, this should start to raise some flags.
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/10.png" />
 </p>
@@ -81,6 +96,21 @@ Answer: True positive
 
 <h2 align="center">Alert IDs 1006-1010:</h2> 
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/14.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1006.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1007.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1008.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1009.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1010.png" />
 </p>
 These next 5 alerts are stated as suspicious processes, all of them are legitimate Windows processes so these are false positives. The processes in question: 
 
@@ -141,6 +171,18 @@ Answer: True positive
 
 
 <h2 align="center">Alert ID 1025-1034:</h2>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1025.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1026.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1027.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/1034.png" />
+</p>
 These alerts are all true positive because all of them are utilizing Powershell to use the Windows DNS lookup tool, nslookup.exe to lookup odd and suspicious domain names where there’s a string of characters at the beginning. 
 <img src="https://github.com/Mwajiduddin/Triaging-and-analyzing-incoming-alerts-and-ascertaining-if-they-re-true-positive-or-false-positive/blob/main/25.1.png" />
 </p>
